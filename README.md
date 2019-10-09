@@ -1,7 +1,10 @@
 # twitter-quotes-bot
 twitter bot which generate random quotes.Add your twitter api keys on api/config.js file
-
-# To run
+first run 
+`
+npm install
+`
+# TO START
 `
 node bot.js
 `
